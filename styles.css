@@ -34,6 +34,7 @@ body {
   transition: flex 1s ease-in;
   position: relative;
   cursor: pointer;
+  width:2rem;
 }
 
 .card.active {
